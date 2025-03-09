@@ -1,6 +1,5 @@
 
-## 欢迎来到我的GitHub个人主页！
-Welcome to my GitHub profile！
+## 欢迎来到我的GitHub个人主页！ Welcome to my GitHub profile！
 
 - 🔭 本人目前大一在读，坐标天津理工大学，是一名Linux爱好者。👋
 - 🪂 通常使用Windows进行开发。Linux也会简单的使用。
