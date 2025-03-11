@@ -8,5 +8,4 @@
 - 💬 QQ：2836594793             
 - 📫 个人邮箱：2836594793@qq.com, WillPlus-Personal@outlook.com
 - 🤔 新手上路，请各位大神多多关照
-
-<img align="right" src="https://github-readme-stats.vercel.app/apiWill-Plusjoway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+- 
